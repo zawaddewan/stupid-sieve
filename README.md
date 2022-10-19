@@ -1,5 +1,5 @@
 # Optimization Write up
-Hello, I wrote this to help make my code, which is really unintuitive at first glance, make more sense
+Hello, I wrote this to help make my code, which is really unintuitive at first glance, make more sense. Default main is 100 runs of 2 millionth prime
 
 ## Size approximation
 Using a bit of wikipedia and desmos, I learned about the prime counting function, π(x).
